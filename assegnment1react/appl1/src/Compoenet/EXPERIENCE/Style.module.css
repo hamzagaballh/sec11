@@ -1,0 +1,74 @@
+.sec5{
+    width: 80%;
+    margin: auto;
+    margin-left: 150px;
+     position: relative;
+}
+.sec5 p{
+    margin-top: 50px;
+    color: gray;
+}
+.line{
+    width: 5px;
+    height: 90vh;
+    background-color: bisque;
+   
+}
+.cir{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid gold;
+    top: 20%;
+    left:3%;
+    z-index: 1000;
+    background-color: brown;
+}
+.cir1{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid rgb(171, 81, 57);
+    top: 48%;
+    left:3%;
+    z-index: 1000;
+    background-color: #a5a0a0;
+}
+.cir2{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid rgb(34, 64, 120);
+    top: 75%;
+    left:3%;
+    z-index: 1000;
+    background-color: blueviolet;
+}
+.devs{
+    margin-left: 30px;
+}
+.sics{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 50px ;
+}
+.dev1{
+    width: 90%;
+    height: 200px;
+    background-color: antiquewhite;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.dev1 h2{
+    margin-left: 20px;
+    padding-top: 20px;
+    font-size: 25px;
+}
+.dev1 p{
+    width: 90%;
+    margin-left: 20px;
+    justify-items: center;
+}

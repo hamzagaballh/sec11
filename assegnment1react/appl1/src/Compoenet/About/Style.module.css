@@ -1,0 +1,85 @@
+.con{
+    width: 80%;
+    margin: auto;
+}
+.con p{
+    margin-top: 100px;
+    color: gray;
+}
+.con h3{
+    font-weight: bold;
+}
+.con h5{
+    font-weight: 100;
+    margin-top: 20px;
+}
+span{
+    font-weight: 400;
+    color: black;
+}
+.sec{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.sec1{
+    margin-top: 20px;
+    width: 180px;
+    height: 160px;
+    border-radius: 10px;
+
+    background-color: aquamarine;
+    border-bottom: 2px solid blueviolet;
+    box-shadow: 16px 23px 20px 0px rgba(0,0,0,0.1),0px 10px 15px -3px rgba(0,0,0,0.1);
+}
+.sec1 h4{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 70px;
+}
+.sec2{
+    margin-top: 20px;
+    width: 180px;
+    height: 160px;
+    border-radius: 10px;
+    background-color: aquamarine;
+    border-bottom: 2px solid red;
+    box-shadow: 16px 23px 20px 0px rgba(0,0,0,0.1),0px 10px 15px -3px rgba(0,0,0,0.1);
+
+}
+.sec2 h4{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 70px;
+}
+.sec3{
+    margin-top: 20px;
+    width: 180px;
+    height: 160px;
+    border-radius: 10px;
+
+    background-color: aquamarine;
+    border-bottom: 2px solid rgb(213, 213, 32);
+    box-shadow: 16px 23px 20px 0px rgba(0,0,0,0.1),0px 10px 15px -3px rgba(0,0,0,0.1);
+
+}
+.sec3 h4{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 70px;
+}
+.sec4{
+    margin-top: 20px;
+    width: 180px;
+    height: 160px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    border-bottom: 2px solid rgb(88, 196, 88);
+    box-shadow: 16px 23px 20px 0px rgba(0,0,0,0.1),0px 10px 15px -3px rgba(0,0,0,0.1);
+
+}
+.sec4 h4{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 70px;
+}

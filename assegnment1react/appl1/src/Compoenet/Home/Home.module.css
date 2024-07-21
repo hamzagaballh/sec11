@@ -1,0 +1,29 @@
+.carousel-item {
+  position: relative;
+}
+.title{
+  top: 30%;
+  left: 10%;
+  position: absolute;
+}
+.title h1{
+  font-weight: bold;
+}
+.title p{
+  width: 80%;
+  margin-top: 20px;
+}
+span{
+  color: blueviolet;
+}
+.title button{
+  width: 170px;
+  height: 40px;
+  background-color: rgba(240, 248, 255, 0.179);
+  border: black solid 1px;
+  transition: 1s;
+}
+.title button:hover{
+  background-color: black;
+  color: aliceblue;
+}

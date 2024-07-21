@@ -1,0 +1,17 @@
+.work{
+    width: 90%;
+    /* margin: auto; */
+    background-color: azure;
+    margin-left: 50px;
+}
+.work p{
+    margin-top: 70px;
+    /* margin-left: 100px; */
+    letter-spacing: 2px;
+    color: gray;
+    font-weight: 200;
+}
+.work h4{
+    /* margin-left: 100px; */
+    letter-spacing: 2px;
+}
